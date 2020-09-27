@@ -22,7 +22,7 @@ function App() {
           Learn React
         </a>
       </header>
-
+      /* add tensor*/
       <TensorflowExample/>
     </div>
   );
